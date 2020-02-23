@@ -1,6 +1,8 @@
+package com.tony.interview;
+
 class A {
     public A() {
-        System.out.print("A gouzhao");
+        System.out.print("main.java.com.tony.interview.A gouzhao");
     }
 
     private static A a = new A();

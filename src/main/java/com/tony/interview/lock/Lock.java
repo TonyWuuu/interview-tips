@@ -1,4 +1,4 @@
-package lock;
+package com.tony.interview.lock;
 
 public class Lock {
     boolean isLocked = false;

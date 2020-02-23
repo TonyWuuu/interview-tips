@@ -1,4 +1,4 @@
-package algorithm.list;
+package com.tony.interview.algorithm.list;
 
 public class ListNode
 {

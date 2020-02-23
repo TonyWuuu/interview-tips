@@ -1,6 +1,4 @@
-package algorithm.sort;
-
-import java.util.Arrays;
+package com.tony.interview.algorithm.sort;
 
 public class QuickSort {
 

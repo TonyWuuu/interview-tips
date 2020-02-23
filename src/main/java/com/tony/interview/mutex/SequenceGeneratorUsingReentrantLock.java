@@ -1,4 +1,4 @@
-package mutex;
+package com.tony.interview.mutex;
 
 import java.util.concurrent.locks.ReentrantLock;
 

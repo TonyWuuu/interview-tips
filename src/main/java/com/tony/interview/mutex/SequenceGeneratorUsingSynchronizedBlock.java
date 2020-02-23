@@ -1,4 +1,4 @@
-package mutex;
+package com.tony.interview.mutex;
 
 public class SequenceGeneratorUsingSynchronizedBlock extends SequenceGenerator {
 

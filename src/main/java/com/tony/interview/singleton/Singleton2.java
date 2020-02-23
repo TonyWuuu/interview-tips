@@ -1,4 +1,4 @@
-package singleton;
+package com.tony.interview.singleton;
 
 public class Singleton2 {
     private Singleton2(){

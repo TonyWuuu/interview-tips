@@ -1,4 +1,4 @@
-//Collections.synchronizedMap(Map<K, V>) 
+package com.tony.interview;
 
 import java.io.IOException;
 import java.io.ObjectOutputStream;
@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.Set;
 
 
-//SynchronizedMap<K,V>
+//main.java.com.tony.interview.SynchronizedMap<K,V>
 public class SynchronizedMap<K,V> implements Serializable {
     private static final long serialVersionUID = 1978198479659022715L;
 

@@ -1,4 +1,4 @@
-package algorithm.sort;
+package com.tony.interview.algorithm.sort;
 
 import java.util.Arrays;
 

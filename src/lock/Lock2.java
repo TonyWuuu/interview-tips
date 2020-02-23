@@ -1,4 +1,4 @@
-package Lock;
+package lock;
 
 public class Lock2 {
     boolean isLocked = false;
